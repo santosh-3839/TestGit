@@ -1,1 +1,2 @@
-This is my first Test file
+This is my first Test file.
+THis is from second file.
